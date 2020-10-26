@@ -1,0 +1,16 @@
+.sobre-nosotros{
+    text-align: center;
+    background-color: $background-color-menu;
+    color: $font-color-menu;
+    padding: 10%;
+    
+    .contenedor-fluid-sobre-nosotros{
+        padding: 40%;
+        display: 100vh;
+
+    }
+}
+
+.parrafo-sobre-nosotros {
+    margin-top: 30px;
+}
